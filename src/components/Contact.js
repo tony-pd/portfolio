@@ -21,6 +21,10 @@ const Div = styled.div`
     h1{
         margin-top: 35vh;
     }
+    p{
+        text-align: center;
+        width: 70%;
+    }
 `
 const Icons = styled.div`
     display: flex;

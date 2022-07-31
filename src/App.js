@@ -34,11 +34,11 @@ const Main = styled.div`
     font-size: 0.6em; 
     padding: 9px 20px 10px !important;
   }
-  .is-active{
+  /*.is-active{
     background: #1e1e1e;
     color: white !important;
     pointer-events: none;
-  }
+  } */
   .bg-black{
     background-color: black;
     padding: 0;

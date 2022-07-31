@@ -18,6 +18,7 @@ const Div = styled.div`
     //background-size: 100% auto;
     h1{
         margin-top: 25vh;
+        text-shadow: 2px 2px 4px #000000;
     }
     @media only screen and (max-width: 600px) {
         h1{

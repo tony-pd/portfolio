@@ -7,10 +7,22 @@
         "Contact"
     ],
     "about":{
-        "title":"Hi, I'm Tony P.D",
-        "desc":"I'm a Frontend developer with creative design skills. I started my career as a Flash developer and now into UI development. I'm eager to learn new technologies."
+        "title":"Hi, I'm Tony",
+        "desc":"A Frontend Consultant with creative design skills from God's own country. I started my career as a Flash developer and transitioned into UI development. If your vision matches with my passion, let's connect!"
     },
     "skills":[
+        {
+            "skill":"React",
+            "rating":"80"
+        },
+        {
+            "skill":"Redux",
+            "rating":"70"
+        },
+        {
+            "skill":"JavaScript",
+            "rating":"75"
+        },
         {
             "skill":"HTML5",
             "rating":"80"
@@ -22,15 +34,7 @@
         {
             "skill":"BootStrap",
             "rating":"70"
-        },
-        {
-            "skill":"ReactJs",
-            "rating":"80"
-        },
-        {
-            "skill":"Angular",
-            "rating":"60"
-        }
+        }  
     ],
     "projects":[
         {
@@ -53,7 +57,7 @@
         },
         {
             "title":"Don Bosco Vaasaappu",
-            "desc":"Don Bosco Vaasaappu is a website based on a cultural event held in Sri lanka to raise funds. The website was build responsively to support most devies. Powered using AngularJs, jQuery, HTML, CSS and BootStrap.",
+            "desc":"Don Bosco Vaasaappu is a website based on a cultural event held in Sri lanka to raise funds. The website was build responsively to support most devices. Powered using AngularJs, jQuery, HTML, CSS and BootStrap.",
             "thumb":"./images/projects/dbv_thumb.jpg",
             "img":"./images/projects/dbv.jpg"
         }
@@ -63,14 +67,14 @@
         "./images/clients/ebay.jpg",
         "./images/clients/altares.jpg",
         "./images/clients/autozone.jpg",
-        "./images/clients/daman.jpg",
+        "./images/clients/jpmc.jpg",
         "./images/clients/verizon.jpg"
     ],
     "contact":{
         "title":"Contact",
-        "desc":"Feel free to reach out to me",
+        "desc":"Click on the links below and feel free to reach out to me",
         "email":"mailto:mailtonypd@gmail.com",
         "linkedin":"https://www.linkedin.com/in/tony-p-d/",
-        "github":"https://github.com/tonydavid1304"       
+        "github":"https://github.com/tonydavid1304/portfolio"       
     }
 }]
