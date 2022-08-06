@@ -1,12 +1,9 @@
 import React from 'react';
 import { Modal } from "react-bootstrap";
+import Image from "react-bootstrap/image";
 import styled from 'styled-components';
 import "./popup.css";
 
-const Img = styled.img`
-  max-width: 100%;
-  height: auto;
-`
 const P = styled.p`
   margin-top: 10px;
 `
@@ -26,7 +23,7 @@ const Popup = (props) => {
         </Modal.Title>
       </Modal.Header>
       <Modal.Body>
-        <Img src={img} alt={title} />
+        <Image src={img} fluid/>
         <P>{desc}</P>
       </Modal.Body>
       {/* <Modal.Footer>

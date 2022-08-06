@@ -22,6 +22,11 @@ Open package.json file and change the homepage value:
 ```
 "homepage": "https://<your_github_username>.github.io/<your_project_repository_name>/",
 ```
+For running locally change the homepage value to:
+
+```
+"homepage": "./portfolio/",
+```
 
 To start the application run:
 
