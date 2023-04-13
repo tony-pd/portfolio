@@ -36,7 +36,7 @@ const Skills = (props) => {
     return (
         data.map((section, index) => {
             const {menu, skills} = section;
-            const colors = ["info","warning", "","success","danger"];
+            const colors = ["info","warning", "","success","danger","info","warning"];
 
             return (
                 <Div key={"skills"} >                   
