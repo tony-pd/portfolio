@@ -8,19 +8,19 @@
     ],
     "about":{
         "title":"Hi, I'm Tony",
-        "desc":"A Frontend Consultant with creative design skills from God's own country. I started my career as a Flash developer and transitioned into UI development. If your vision matches with my passion, let's connect!"
+        "desc":"A Frontend / UI Specialist with creative design skills, from God's own country. I started my career as a Flash developer and transitioned into UI development. If your vision matches with my passion, let's connect!"
     },
     "skills":[
         {
-            "skill":"React",
+            "skill":"React & Redux",
+            "rating":"90"
+        },    
+        {
+            "skill":"JavaScript / ES6",
             "rating":"80"
         },
         {
-            "skill":"Redux",
-            "rating":"70"
-        },
-        {
-            "skill":"JavaScript",
+            "skill":"TypeScript",
             "rating":"75"
         },
         {
@@ -32,6 +32,10 @@
             "rating":"75"
         },
         {
+            "skill":"SASS",
+            "rating":"70"
+        },
+        {
             "skill":"BootStrap",
             "rating":"70"
         }  
@@ -39,7 +43,7 @@
     "projects":[
         {
             "title":"Altares",
-            "desc":"We reengineered a web portal for Altares, a single data source for Belgium, Netherlands and Luxembourg markets to provide data/products loaded from different sources like bulk uploads and manual data entry application. Users can view / modify financial and legal data related to individuals and businesses. Worked on Frontend functionalities using Angular, HTML5, CSS3 and BootStrap. ",
+            "desc":"We reengineered a web portal for Altares, a single data source for Belgium, Netherlands and Luxembourg markets to provide data/products loaded from different sources like bulk uploads and manual data entry application. Users can view / modify financial and legal data related to individuals and businesses. Worked on Frontend functionalities using Angular, HTML5, CSS3, TypeScript and BootStrap. ",
             "thumb":"./images/projects/altares_thumb.jpg",
             "img":"./images/projects/altares.jpg"
         },
@@ -56,10 +60,10 @@
             "img":"./images/projects/autozone.jpg"
         },
         {
-            "title":"Don Bosco Vaasaappu",
-            "desc":"Don Bosco Vaasaappu is a website based on a cultural event held in Sri lanka to raise funds. The website was build responsively to support most devices. Powered using AngularJs, jQuery, HTML, CSS and BootStrap.",
-            "thumb":"./images/projects/dbv_thumb.jpg",
-            "img":"./images/projects/dbv.jpg"
+            "title":"Dashboard app",
+            "desc":"This is a responsive dashboard app created using Ant design. Powered using React, TypeScript, HTML5, CSS3, SASS and Ant design.",
+            "thumb":"./images/projects/dashboard_thumb.jpg",
+            "img":"./images/projects/dashboard.jpg"
         }
     ],
     "clients":[
