@@ -66,13 +66,13 @@ Please feel free to contribute to this project.
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/tonydavid1304/portfolio/tags). 
+For the versions available, see the [tags on this repository](https://github.com/tony-pd/portfolio/tags). 
 
 ## Authors
 
 * **Tony P.D**
 
-See also the list of [contributors](https://github.com/tonydavid1304/portfolio/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/tony-pd/portfolio/graphs/contributors) who participated in this project.
 
 ## License
 
