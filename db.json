@@ -1,23 +1,23 @@
 [{    
     "menu":[
         "About",
-        "Skills",
+        "Primary Skills",
         "Projects",
         "Clients",
         "Contact"
     ],
     "about":{
-        "title":"Hi, I'm Tony",
-        "desc":"A Frontend / UI Specialist with creative design skills, from God's own country. I started my career as a Flash developer and transitioned into UI development. If your vision matches with my passion, let's connect!"
+        "title":"Hey, I'm Tony",
+        "desc":"A Frontend / UI Specialist with creative design skills, from God's own country. I started my career as a Flash developer and transitioned into UI development. I've 8+ years of experience working in frontend projects across industries. Find solutions to your problems. Let's connect!"
     },
     "skills":[
         {
             "skill":"React & Redux",
-            "rating":"90"
+            "rating":"95"
         },    
         {
             "skill":"JavaScript / ES6",
-            "rating":"80"
+            "rating":"90"
         },
         {
             "skill":"TypeScript",
@@ -25,19 +25,19 @@
         },
         {
             "skill":"HTML5",
-            "rating":"80"
+            "rating":"90"
         },
         {
             "skill":"CSS3",
-            "rating":"75"
+            "rating":"85"
         },
         {
             "skill":"SASS",
-            "rating":"70"
+            "rating":"75"
         },
         {
             "skill":"BootStrap",
-            "rating":"70"
+            "rating":"75"
         }  
     ],
     "projects":[
